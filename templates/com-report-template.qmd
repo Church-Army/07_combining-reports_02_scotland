@@ -50,7 +50,7 @@ This short report provides an overview of the work that's been taking place at `
 
 The first section of this report summarises data provided by Church Army evangelists in order to describe the activities undertaken by the CoM, as well as the CoM's social impact and the ways in which people are exploring and developing faith through the work of the CoM.
 
-The second section of the report uses data from the *Central Statistics Office's* 2022 census of the Republic of Ireland to describe the population who live within the area local to the CoM.
+The second section of the report uses data from *National Records Scotland's* 2022 census to describe the population who live within the area local to the CoM.
 
 ## Section 1: Activities and impact
 
@@ -170,7 +170,7 @@ The tables and figures in this section describe the CoM's area of operation in t
 
 -   Household composition
 
-All the data in this section of the report were collected in the *Central Statistics Office'*s 2022 census of the Republic of Ireland.
+All the data in this section of the report were collected in *National Records Scotland's* 2022 census, with the exception of deprivation data from the SIMD.
 
 ### Methodology
 
